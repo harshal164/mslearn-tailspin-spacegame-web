@@ -1,4 +1,5 @@
 
+[![Build Status](https://dev.azure.com/harshal16/space%20game%20-%20web%20-workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=main)](https://dev.azure.com/harshal16/space%20game%20-%20web%20-workflow/_build/latest?definitionId=6&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
